@@ -23,7 +23,7 @@ public class Sala {
     private List<Lugar> lugares = new ArrayList<>();
 
     /**
-     * @deprecated hibernate only
+     * @deprecated hibernate only 
      */
     public Sala() {
 
