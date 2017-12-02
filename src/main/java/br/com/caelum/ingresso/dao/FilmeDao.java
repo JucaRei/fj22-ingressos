@@ -13,7 +13,7 @@ import java.util.List;
 @Repository
 public class FilmeDao {
 
-    @PersistenceContext
+    @PersistenceContext //cria gerenciador de entidades 
     private EntityManager manager;
 
 
