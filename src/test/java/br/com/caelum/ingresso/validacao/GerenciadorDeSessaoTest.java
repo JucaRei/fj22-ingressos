@@ -15,6 +15,10 @@ import br.com.caelum.ingresso.model.Sessao;
 
 public class GerenciadorDeSessaoTest {
 	
+	public static void main(String[] args) {
+		
+	}
+	
 	private Filme filme;
 	private Sala sala3D;
 	private Sessao sessaoDasDez;
