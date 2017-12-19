@@ -76,7 +76,9 @@
 
 
             <div class="form-group">
-                <div class="col-md-12">
+                <div class="col-md-6">
+                	    <label for="vencimento">Vencimento</label>
+                	    <input id="vencimento" type="text" name="vencimento" class="form-control">
                     <button type="submit" class="btn btn-primary">Comprar</button>
                 </div>
             </div>
